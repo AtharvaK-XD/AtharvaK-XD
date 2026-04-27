@@ -22,6 +22,5 @@ I am a passionate **Cybersecurity Enthusiast** and **Frontend Developer**. I enj
 
 ## 📫 Let's Connect
 - **Portfolio:** [atharvak.netlify.app](https://portfolio-atharvak.netlify.app/)
-- **GitHub:** [AtharvaK-XD](https://github.com/AtharvaK-XD)
 
 *Building the future, one commit at a time.*
