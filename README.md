@@ -4,7 +4,7 @@ I am a passionate **Cybersecurity Enthusiast** and **Frontend Developer**. I enj
 
 ---
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 - 🛡️ **Focus:** Cybersecurity, Vulnerability Assessment, and Frontend Development.
 - 💻 **Tech Stack:** Python, HTML, CSS, Basic JavaScript.
 - 🎯 **Goal:** Building secure, scalable, and user-centric digital experiences.
