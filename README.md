@@ -16,7 +16,7 @@ I am a passionate **Cybersecurity Enthusiast** and **Frontend Developer**. I enj
 - **RootLock:** A smart tool for password strength analysis and security testing.
 - **PickMySpot:** A real-time seat booking platform built for efficiency.
 - **GeoVault:** An interactive 3D web experience integrating spatial data.
-- **CampusRent:** A college-focused rental marketplace where students can borrow and lend items within a trusted campus ecosystem.[1][2]
+- **CampusRent:** A college-focused rental marketplace where students can borrow and lend items within a trusted campus ecosystem.
 
 ***
 
