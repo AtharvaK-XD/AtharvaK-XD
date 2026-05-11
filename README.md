@@ -1,4 +1,4 @@
-# Hi, I'm Atharva Kulkarni 👋
+# Hi, I'm Atharva Kulkarni 
 
 I am a passionate **Cybersecurity Enthusiast** and **Frontend Developer**. I enjoy solving complex problems, building intuitive web applications, and exploring the intersection of security and user experience.
 
