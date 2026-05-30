@@ -1,24 +1,19 @@
 # Hi, I'm Atharva Kulkarni 
-
 I am a passionate **Cybersecurity Enthusiast** and **Frontend Developer**. I enjoy solving complex problems, building intuitive web applications, and exploring the intersection of security and user experience.
-
 ***
-
 ## 🚀 ABOUT ME
 - 🛡️ **Focus:** Cybersecurity, Vulnerability Assessment, and Frontend Development.
 - 💻 **Tech Stack:** Python, HTML, CSS, Basic JavaScript.
 - 🎯 **Goal:** Building secure, scalable, and user-centric digital experiences.
 - ⚡ **Fun Fact:** I love turning complex security concepts into accessible, functional code.
-
 ***
-
 ## 🛠 Featured Projects
 - **PickMySpot:** A real-time seat booking platform built for efficiency.
 - **GeoVault:** An interactive 3D web experience integrating spatial data.
 - **RootLock:** A smart tool for password strength analysis and security testing.
 - **CampusRent:** A college-focused rental marketplace where students can borrow and lend items within a trusted campus ecosystem.
-
+- **HyperFocus:** A productivity tool designed to help students and professionals eliminate distractions and stay in deep work mode.
+- **Revvy:** An AI-powered code review assistant that analyzes code snippets and GitHub PRs for bugs, security risks, and performance issues.
 ***
-
 ## 📫 Let's Connect
 - **Portfolio:** [atharvak.netlify.app](https://portfolio-atharvak.netlify.app/)
