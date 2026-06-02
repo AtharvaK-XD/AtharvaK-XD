@@ -32,7 +32,7 @@ fun_fact: "I love turning complex security concepts into accessible, functional 
 
 ```
 Languages      →   Python   HTML   CSS   JavaScript
-Security       →   Vulnerability Assessment   OSINT   Recon
+Security       →   Vulnerability Assessment   
 Frontend       →   React   TypeScript   Vite   Tailwind
 Tools          →   Git   Figma   VS Code   Burp Suite
 ```
