@@ -6,7 +6,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-atharvak.netlify.app-0f0f0f?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://atharva-portfolio-self.vercel.app/)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-atharvak.netlify.app-0f0f0f?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://atharva-portfolio-self.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-AtharvaK--XD-0f0f0f?style=for-the-badge&logo=github)](https://github.com/AtharvaK-XD)
 
 </div>
