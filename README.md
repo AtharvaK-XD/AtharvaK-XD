@@ -46,7 +46,7 @@ Tools          →   Git   Figma   VS Code   Burp Suite
 | 🔐 **[RootLock](https://github.com/AtharvaK-XD)** | Smart password strength analyzer & security testing tool | `LIVE` |
 | 📍 **[PickMySpot](https://github.com/AtharvaK-XD)** | Real-time seat booking platform built for efficiency | `LIVE` |
 | 🌍 **[GeoVault](https://github.com/AtharvaK-XD)** | Interactive 3D web experience integrating spatial data | `LIVE` |
-| 🏫**[CampusRent](https://github.com/AtharvaK-XD)** | P2P rental marketplace for campus communities | `LIVE` |
+| 🏫 **[CampusRent](https://github.com/AtharvaK-XD)** | P2P rental marketplace for campus communities | `LIVE` |
 | 🗑️ **[BinRoute](https://github.com/AtharvaK-XD/BinRoute)** | Smart waste management dashboard for municipal fleet managers — real-time routes, live map tracking & analytics | `LIVE` |
 | 🧠 **[HyperFocus](https://github.com/AtharvaK-XD/HyperFocus)** | Deep-work productivity tool to eliminate distractions | `ACTIVE` |
 | 🤖 **[Revvy](https://github.com/AtharvaK-XD)** | AI-powered code review assistant — bugs, security, performance | `ACTIVE` |
