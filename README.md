@@ -35,7 +35,7 @@ roles:
   - Cybersecurity Enthusiast  [ TryHackMe · Hack The Box ]
   - Frontend Developer        [ React · TypeScript · Vite · Tailwind ]
   - Freelancer                [ Internshala · Fiverr ]
-  - Hackathon Builder         [ with @smitdighe ]
+  - Hackathon Builder         [ solo & collab builds ]
 
 currently:
   - Refining dual-mode portfolio (Frontend Dev ↔ Ethical Hacker)
