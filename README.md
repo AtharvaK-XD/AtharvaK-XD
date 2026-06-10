@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=120&section=header&text=ATHARVA%20KULKARNI&fontSize=40&fontColor=00ff9f&fontAlignY=65&animation=twinkling&desc=Security%20%C3%97%20Frontend%20%E2%80%94%20Building%20what%20others%20can't%20break&descAlignY=85&descSize=14&descColor=ffffff"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&multiline=false&width=600&lines=Ethical+Hacker+%7C+Frontend+Developer;Hunting+vulnerabilities+since+day+one;Building+at+the+intersection+of+SEC+%C3%97+FE;TryHackMe+%7C+HackTheBox+%7C+Burp+Suite)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&multiline=false&width=600&lines=Ethical+Hacker+%7C+Frontend+Developer;Hunting+vulnerabilities+since+day+one;Building+at+the+intersection+of+SEC+%C3%97+FE;TryHackMe+%7C+HackTheBox)](https://git.io/typing-svg)
 
 <br/>
 
