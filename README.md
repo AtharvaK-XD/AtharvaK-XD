@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=120&section=header&text=ATHARVA%20KULKARNI&fontSize=40&fontColor=00ff9f&fontAlignY=65&animation=twinkling&desc=Security%20%C3%97%20Frontend%20%E2%80%94%20Building%20what%20others%20can't%20break&descAlignY=85&descSize=14&descColor=ffffff"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&multiline=false&width=600&lines=Ethical+Hacker+%7C+Frontend+Developer;Hunting+vulnerabilities+since+day+one;Building+at+the+intersection+of+SEC+%C3%97+FE;TryHackMe+%7C+HackTheBox)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&multiline=false&width=600&lines=Ethical+Hacker+%7C+Frontend+Developer;Hunting+vulnerabilities+since+day+one;Building+at+the+intersection+of+SEC+%C3%97+FE;React+%7C+TypeScript+%7C+Burp+Suite+%7C+Kali+Linux;Open+to+Freelance+%C2%B7+Collabs+%C2%B7+Hackathons)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,15 +32,15 @@ identity:
   bio      : "Hunting vulnerabilities. Building interfaces. Doing both at once."
 
 roles:
-  - Cybersecurity Enthusiast  [ TryHackMe · Hack The Box ]
+  - Cybersecurity Enthusiast  [ Hack The Box · Burp Suite · Kali Linux ]
   - Frontend Developer        [ React · TypeScript · Vite · Tailwind ]
   - Freelancer                [ Internshala · Fiverr ]
-  - Hackathon Builder         [ solo & collab builds ]
+  - Hackathon Builder         [ Open Collabs · Full-Stack Projects ]
 
 currently:
-  - Refining dual-mode portfolio (Frontend Dev ↔ Ethical Hacker)
-  - Building content on LinkedIn around AI & Cybersecurity
-  - Sharpening offensive skills on THM & HTB
+  - Dual-mode portfolio live — Frontend Dev ↔ Ethical Hacker
+  - Building LinkedIn presence around AI & Cybersecurity
+  - Sharpening offensive skills on HTB & real-world CTFs
   - Open to: freelance gigs · hackathon collabs · internships
 ```
 
@@ -101,7 +101,6 @@ currently:
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
@@ -145,8 +144,8 @@ currently:
 
 **Got a project? I'm open to freelance, collabs, and hackathons.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-0d1117?style=for-the-badge&color=00ff9f)](https://atharva-portfolio-self.vercel.app/)
-[![Mail](https://img.shields.io/badge/Drop_a_Message-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:atharvakulkarni@email.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-00ff9f?style=for-the-badge&labelColor=0d1117)](https://atharva-portfolio-self.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/)
 
 </div>
 
