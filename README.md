@@ -16,7 +16,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AtharvaK-XD&color=00ff9f&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/AtharvaK-XD?style=for-the-badge&color=00ff9f&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
