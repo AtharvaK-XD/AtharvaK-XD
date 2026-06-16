@@ -154,6 +154,6 @@ currently:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=80&section=footer"/>
 
-<sub>© Atharva Kulkarni &nbsp;·&nbsp; Vadodara, India &nbsp;·&nbsp; Security × Frontend &nbsp;·&nbsp; Always building. Always breaking.</sub>
+<sub>© Atharva Kulkarni &nbsp;·&nbsp; Vadodara, Gujarat, India &nbsp;·&nbsp; Security × Frontend &nbsp;·&nbsp; Always building. Always breaking.</sub>
 
 </div>
