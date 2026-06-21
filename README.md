@@ -81,6 +81,7 @@ currently:
 
 | Project | What it does | Stack | Live |
 |---------|-------------|-------|------|
+| 🛒 **UrbanCart** | Multi-vendor e-commerce marketplace with Google OAuth & email auth | `React · Vite · Tailwind · Supabase` | [urban-cart-sage.vercel.app](https://urban-cart-sage.vercel.app/) |
 | 🔐 **RootLock** | Cyberpunk password strength analyzer with entropy scoring | `Vanilla JS` | [rootlock.netlify.app](https://rootlock.netlify.app/) |
 | 🗑️ **BinRoute** | Smart waste management dashboard — live routes, fleet tracking & analytics | `React · Vite · Supabase` | [bin-route.vercel.app](https://bin-route.vercel.app/) |
 | 🤖 **Revvy** | AI code reviewer — bugs, security gaps, severity labels, 0–100 score | `React · TypeScript · FastAPI · Groq` | [revvy-iota.vercel.app](https://revvy-iota.vercel.app/) |
