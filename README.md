@@ -32,7 +32,7 @@ identity:
 
 roles:
   - Cybersecurity Enthusiast  [ Hack The Box · Burp Suite · Kali Linux ]
-  - Frontend Developer        [ React · TypeScript · Vite · Tailwind ]
+  - Frontend Developer        [ React · JavaScript · Vite · Tailwind ]
   - Freelancer                [ Internshala · Fiverr ]
   - Hackathon Builder         [ Open Collabs · Full-Stack Projects ]
 
