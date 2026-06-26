@@ -39,7 +39,7 @@ roles:
 currently:
   - Dual-mode portfolio live — Frontend Dev ↔ Ethical Hacker
   - Building LinkedIn presence around AI & Cybersecurity
-  - Sharpening offensive skills on HTB & real-world CTFs
+  - Sharpening offensive skills on THM & real-world CTFs
   - Open to: freelance gigs · hackathon collabs · internships
 ```
 
