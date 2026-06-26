@@ -31,7 +31,7 @@ identity:
   bio      : "Hunting vulnerabilities. Building interfaces. Doing both at once."
 
 roles:
-  - Cybersecurity Enthusiast  [ Hack The Box · Burp Suite · Kali Linux ]
+  - Cybersecurity Enthusiast  [ TryHackMe · Burp Suite · Kali Linux ]
   - Frontend Developer        [ React · JavaScript · Vite · Tailwind ]
   - Freelancer                [ Internshala · Fiverr ]
   - Hackathon Builder         [ Open Collabs · Full-Stack Projects ]
