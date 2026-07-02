@@ -1,31 +1,3 @@
-
-Claude finished the response
-
-<div align="center"> <!-- HEADER BANNER --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=120&section=header&text=ATHARVA%20KULKARNI&fontSize=40&fontColor=00ff9f&fontAlignY=65&animation=twinkling&desc=Security%20%C3%97%20Frontend
-
-pasted
-
-https://flick-frontend-nine.vercel.app/
-add this project to listed projects
-reference- Study smarter, remember forever. AI-powered flashcard generation integrated with an active spaced repetition study engine.
-
-
-Orchestrated README update with formatted project addition
-Orchestrated README update with formatted project addition
-Added Flick to the top of the projects table (newest/flagship spot, since it's your Frontend Battle 2026 build) with the 🎴 emoji, your tagline, and the live link. Just copy the contents into your GitHub profile README.
-
-
-Readme
-Document · MD 
-
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-
-
-Readme · MD
 <div align="center">
  
 <!-- HEADER BANNER -->
