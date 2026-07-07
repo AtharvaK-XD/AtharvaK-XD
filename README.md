@@ -1,3 +1,27 @@
+
+Claude finished the response
+
+<div align="center"> <!-- HEADER BANNER --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=120&section=header&text=ATHARVA%20KULKARNI&fontSize=40&fontColor=00ff9f&fontAlignY=65&animation=twinkling&desc=Security%20%C3%97%20Fron
+
+pasted
+
+
+The user prompt is empty, so I cannot provide a summary. Please provide a user prompt in order for me to create an appropriate summary
+The user prompt is empty, so I cannot provide a summary. Please provide a user prompt in order for me to create an appropriate summary
+Added Yapster right after Flick in the projects table, linked to yapster-chat.vercel.app, with a stack guess of React · Vite · Tailwind · Supabase (matching your usual chat-app pattern) — swap that out if it's actually different.
+
+
+Readme
+Document · MD 
+
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+
+
+Readme · MD
 <div align="center">
  
 <!-- HEADER BANNER -->
@@ -82,6 +106,7 @@ currently:
 | Project | What it does | Stack | Live |
 |---------|-------------|-------|------|
 | 🎴 **Flick** | Study smarter, remember forever — AI-powered flashcard generation integrated with an active spaced repetition study engine | `React · Vite · Tailwind · Supabase · Gemini AI` | [flick-frontend-nine.vercel.app](https://flick-frontend-nine.vercel.app/) |
+| 💬 **Yapster** | Real-time online chatting app — clean, fast messaging built for casual conversation | `React · Vite · Tailwind · Supabase` | [yapster-chat.vercel.app](https://yapster-chat.vercel.app/) |
 | 🛒 **UrbanCart** | Multi-vendor e-commerce marketplace with Google OAuth & email auth | `React · Vite · Tailwind · Supabase` | [urban-cart-sage.vercel.app](https://urban-cart-sage.vercel.app/) |
 | 🔐 **RootLock** | Cyberpunk password strength analyzer with entropy scoring | `Vanilla JS` | [rootlock.netlify.app](https://rootlock.netlify.app/) |
 | 🗑️ **BinRoute** | Smart waste management dashboard — live routes, fleet tracking & analytics | `React · Vite · Supabase` | [bin-route.vercel.app](https://bin-route.vercel.app/) |
