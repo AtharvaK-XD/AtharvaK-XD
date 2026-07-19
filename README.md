@@ -1,6 +1,3 @@
-
-Claude finished the response
-
 <div align="center"> <!-- HEADER BANNER --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=120&section=header&text=ATHARVA%20KULKARNI&fontSize=40&fontColor=00ff9f&fontAlignY=65&animation=twinkling&desc=Security%20%C3%97%20Fron
 
 pasted
