@@ -69,12 +69,6 @@ currently:
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AtharvaK-XD&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## `> ls -la ./projects`
