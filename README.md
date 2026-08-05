@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00ff9f?style=for-the-badge&labelColor=0d1117)](https://atharva-portfolio-self.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@AtharvaKulkarni-k5f)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/void._.ai/)
 
 <br/>
 
