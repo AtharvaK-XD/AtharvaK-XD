@@ -76,6 +76,7 @@ currently:
 | Project | What it does | Stack | Live |
 |---------|-------------|-------|------|
 | 🎴 **Flick** | Study smarter, remember forever — AI-powered flashcard generation integrated with an active spaced repetition study engine | `React · Vite · Tailwind · Supabase · Gemini AI` | [flick-frontend-nine.vercel.app](https://flick-frontend-nine.vercel.app/) |
+| 📰 **TheGitTimes** | Turns any GitHub profile into a vintage 1920s newspaper — sepia heatmap, magnifying loupe, AI-generated copy | `React · TypeScript · Vite · Tailwind · Gemini AI` | [the-git-times.vercel.app](https://the-git-times.vercel.app) |
 | 💬 **Yapster** | Real-time online chatting app — clean, fast messaging built for casual conversation | `React · Vite · Tailwind · Supabase` | [yapster-chat.vercel.app](https://yapster-chat.vercel.app/) |
 | 🛒 **UrbanCart** | Multi-vendor e-commerce marketplace with Google OAuth & email auth | `React · Vite · Tailwind · Supabase` | [urban-cart-sage.vercel.app](https://urban-cart-sage.vercel.app/) |
 | 🔐 **RootLock** | Cyberpunk password strength analyzer with entropy scoring | `Vanilla JS` | [rootlock.netlify.app](https://rootlock.netlify.app/) |
