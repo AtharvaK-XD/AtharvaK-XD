@@ -1,24 +1,15 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=120&section=header&text=ATHARVA%20KULKARNI&fontSize=40&fontColor=00ff9f&fontAlignY=65&animation=twinkling&desc=Security%20%C3%97%20Frontend%20%E2%80%94%20Building%20what%20others%20can't%20break&descAlignY=85&descSize=14&descColor=ffffff"/>
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&multiline=false&width=600&lines=Ethical+Hacker+%7C+Frontend+Developer;Hunting+vulnerabilities+since+day+one;Building+at+the+intersection+of+SEC+%C3%97+FE;React+%7C+TypeScript+%7C+Burp+Suite+%7C+Kali+Linux;Open+to+Freelance+%C2%B7+Collabs+%C2%B7+Hackathons)](https://git.io/typing-svg)
-
-<br/>
+<img src="./assets/hero.svg" width="100%" alt="Atharva Kulkarni — Founder & CEO of Bedrock. Security × Frontend." />
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00ff9f?style=for-the-badge&labelColor=0d1117)](https://atharva-portfolio-self.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@AtharvaKulkarni-k5f)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AtharvaK-XD&color=00ff9f&style=for-the-badge&label=PROFILE+VIEWS)
+[![Bedrock](https://img.shields.io/badge/Bedrock-bedrockxai.com-b4632f?style=for-the-badge&labelColor=0d1117)](https://bedrockxai.com)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `> whoami`
 
@@ -30,128 +21,44 @@ identity:
   bio      : "Hunting vulnerabilities. Building interfaces. Doing both at once."
 
 roles:
+  - Founder & CEO             [ Bedrock · bedrockxai.com ]
   - Cybersecurity Enthusiast  [ TryHackMe · Burp Suite · Kali Linux ]
   - Frontend Developer        [ React · JavaScript · Vite · Tailwind ]
   - Freelancer                [ Internshala · Fiverr ]
   - Hackathon Builder         [ Open Collabs · Full-Stack Projects ]
 
 currently:
+  - Building Bedrock full-time as a solo founder — public launch 21 Nov 2026
   - Dual-mode portfolio live — Frontend Dev ↔ Ethical Hacker
   - Building LinkedIn presence around AI & Cybersecurity
   - Sharpening offensive skills on THM & real-world CTFs
   - Open to: freelance gigs · hackathon collabs · internships
 ```
 
----
-
-## `> cat .philosophy`
-
 > **Security isn't a feature. It's a foundation.**
 >
 > I build at the intersection of *how things work* and *how things break* —
 > designing interfaces that are beautiful, functional, and hardened from the ground up.
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## `> github --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=AtharvaK-XD&show_icons=true&theme=merko&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9&border_color=00ff9f&border_radius=10&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=AtharvaK-XD&layout=compact&theme=merko&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9&border_color=00ff9f&border_radius=10&langs_count=8&cache_seconds=1800"/>
-
-</div>
-
+## `> ./bedrock --founder`
 
 <div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=AtharvaK-XD&theme=dark&background=0d1117&border=00ff9f&stroke=00ff9f&ring=00ff9f&fire=ff6b35&currStreakNum=00ff9f&sideNums=c9d1d9&currStreakLabel=00ff9f&sideLabels=c9d1d9&dates=6e7681&border_radius=10&timezone=Asia/Kolkata"/>
-
+<a href="https://bedrockxai.com"><img src="./assets/bedrock.svg" width="100%" alt="Bedrock — turn a rough idea into a tested spec for AI coding tools." /></a>
 </div>
 
----
+<br/>
+
+I'm the founder and CEO of **[Bedrock](https://bedrockxai.com)**, an open-source prompt-engineering workstation. AI coding tools only build what you describe, and most of us describe things badly. Bedrock interviews you first, then writes a spec your AI can actually follow: pinned versions, guardrails and a definition of done. Compare two models side by side, then export to `CLAUDE.md`, `.cursorrules`, `.windsurfrules` and 12 more formats. The desktop app is bring-your-own-key and works with Ollama.
+
+**[Try it](https://bedrockxai.com)** · **[Source on GitHub](https://github.com/Bedrockxai/Bedrock)** · **[Org](https://github.com/Bedrockxai)**
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `> ls -la ./projects`
 
 | Project | What it does | Stack | Live |
 |---------|-------------|-------|------|
-| 🎴 **Flick** | Study smarter, remember forever — AI-powered flashcard generation integrated with an active spaced repetition study engine | `React · Vite · Tailwind · Supabase · Gemini AI` | [flick-frontend-nine.vercel.app](https://flick-frontend-nine.vercel.app/) |
-| 📰 **TheGitTimes** | Turns any GitHub profile into a vintage 1920s newspaper — sepia heatmap, magnifying loupe, AI-generated copy | `React · TypeScript · Vite · Tailwind · Gemini AI` | [the-git-times.vercel.app](https://the-git-times.vercel.app) |
-| 💬 **Yapster** | Real-time online chatting app — clean, fast messaging built for casual conversation | `React · Vite · Tailwind · Supabase` | [yapster-chat.vercel.app](https://yapster-chat.vercel.app/) |
-| 🛒 **UrbanCart** | Multi-vendor e-commerce marketplace with Google OAuth & email auth | `React · Vite · Tailwind · Supabase` | [urban-cart-sage.vercel.app](https://urban-cart-sage.vercel.app/) |
-| 🔐 **RootLock** | Cyberpunk password strength analyzer with entropy scoring | `Vanilla JS` | [rootlock.netlify.app](https://rootlock.netlify.app/) |
-| 🗑️ **BinRoute** | Smart waste management dashboard — live routes, fleet tracking & analytics | `React · Vite · Supabase` | [bin-route.vercel.app](https://bin-route.vercel.app/) |
-| 🤖 **Revvy** | AI code reviewer — bugs, security gaps, severity labels, 0–100 score | `React · TypeScript · FastAPI · Groq` | [revvy-iota.vercel.app](https://revvy-iota.vercel.app/) |
-| 🧠 **HyperFocus** | Cyberpunk deep-work tracker — logs distractions, scores focus sessions | `Vanilla JS` | [hyper-focus-y27c.vercel.app](https://hyper-focus-y27c.vercel.app/) |
-| 🌍 **GeoVault** | Sci-fi 3D globe marketplace — buy a country, yes really | `Three.js · WebGL` | [geovault.netlify.app](https://geovault.netlify.app/) |
-| 💀 **KaliCMD** | 256 Kali Linux commands — search, browse, copy. Offline-first. | `HTML · CSS · JS` | [kalicmd.netlify.app](https://kalicmd.netlify.app/) |
-| 🏫 **CampusRent** | P2P rental marketplace for campus communities | `React · Node.js · Socket.io` | `soon` |
-| 📍 **PickMySpot** | Real-time seat booking with Android APK | `HTML · CSS · JS` | `soon` |
-
----
-
-## `> nmap --skills`
-
-<div align="center">
-
-**OFFENSIVE SECURITY**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-**FRONTEND**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**BACKEND & TOOLS**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## `> git log --activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaK-XD&bg_color=0d1117&color=00ff9f&line=00ff9f&point=ffffff&area=true&area_color=00ff9f&hide_border=false&border_color=00ff9f&radius=10" width="95%"/>
-
-</div>
-
----
-
-## `> ./connect --now`
-
-<div align="center">
-
-**Got a project? I'm open to freelance, collabs, and hackathons.**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-00ff9f?style=for-the-badge&labelColor=0d1117)](https://atharva-portfolio-self.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/atharva-kulkarni-a16a5a3b9/)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9f,100:0d1117&height=80&section=footer"/>
-
-<sub>© Atharva Kulkarni &nbsp;·&nbsp; Vadodara, Gujarat, India &nbsp;·&nbsp; Security × Frontend &nbsp;·&nbsp; Always building. Always breaking.</sub>
-
-</div>
+| **Bedrock** *(founder)* | Prompt-engineering workstation: guided questions → tested spec → 15 export formats, multi-model Arena, branching canvas, Windows + Mac app | `React · TypeScript · Vite · Tailwind · Electron · Neon · Clerk` | [bedrockxai.com](https://bedrockxai.com) |
+| **Flick** | Study smarter, remember forever — AI-powered
