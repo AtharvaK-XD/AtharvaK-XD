@@ -28,7 +28,7 @@ roles:
   - Hackathon Builder         [ Open Collabs · Full-Stack Projects ]
 
 currently:
-  - Building Bedrock full-time as a solo founder — public launch 21 Nov 2026
+  - Building Bedrock full-time as a solo founder
   - Dual-mode portfolio live — Frontend Dev ↔ Ethical Hacker
   - Building LinkedIn presence around AI & Cybersecurity
   - Sharpening offensive skills on THM & real-world CTFs
