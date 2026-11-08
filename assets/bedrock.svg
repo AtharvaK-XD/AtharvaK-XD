@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="268" viewBox="0 0 900 268" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" role="img" aria-label="Bedrock. Turn a rough idea into a tested spec for AI coding tools. Pipeline: idea, questions, spec, export.">
+<rect x=".5" y=".5" width="899" height="267" rx="14" fill="#0d1117" stroke="#1f2a35"/>
+<g opacity=".5" stroke="#16202a"><path d="M0 60L900 60M0 120L900 120" /></g>
+<text x="36" y="46" font-size="11" letter-spacing="2.5" fill="#e08a52" textLength="262" lengthAdjust="spacing">FLAGSHIP · FOUNDER &amp; CEO</text>
+<rect x="650" y="28" width="214" height="26" rx="13" fill="none" stroke="#2b3a4a"/>
+<circle cx="668" cy="41" r="3.5" fill="#00ff9f"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="682" y="45" font-size="11" letter-spacing="1" fill="#c9d1d9" textLength="170" lengthAdjust="spacing">LAUNCH · 21 NOV 2026</text>
+<text x="36" y="108" font-size="52" font-weight="800" fill="#e6edf3" textLength="224" lengthAdjust="spacing">Bedrock</text>
+<rect x="36" y="118" width="0" height="3" fill="#b4632f"><animate attributeName="width" values="0;224;224;0" keyTimes="0;.15;.85;1" dur="8s" repeatCount="indefinite"/></rect>
+<text x="36" y="148" font-size="14" fill="#9fb0c0" textLength="480" lengthAdjust="spacing">Turn a rough idea into a tested spec for AI coding tools.</text>
+<text x="36" y="170" font-size="11.5" fill="#6b7b8c" textLength="620" lengthAdjust="spacing">6 workspaces  ·  15 export formats  ·  6 guardrails  ·  open source (MIT)  ·  web + Windows + Mac</text>
+<line x1="100" y1="212" x2="800" y2="212" stroke="#1f2a35" stroke-width="2"/>
+<line x1="100" y1="212" x2="100" y2="212" stroke="#00ff9f" stroke-width="2"><animate attributeName="x2" values="100;800;800" keyTimes="0;.85;1" dur="7s" repeatCount="indefinite"/></line>
+<circle cx="100.0" cy="212" r="7" fill="#0d1117" stroke="#00ff9f" stroke-width="1.5"><animate attributeName="fill" values="#00ff9f;#0d1117;#0d1117" keyTimes="0;0.12;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="100.0" y="244" text-anchor="middle" font-size="11" letter-spacing="2" fill="#c9d1d9">IDEA</text>
+<text x="100.0" y="192" text-anchor="middle" font-size="10" fill="#5b6b7a">your rough brief</text>
+<circle cx="333.3" cy="212" r="7" fill="#0d1117" stroke="#00ff9f" stroke-width="1.5"><animate attributeName="fill" values="#0d1117;#0d1117;#00ff9f;#0d1117;#0d1117" keyTimes="0;0.243;0.283;0.403;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="333.3" y="244" text-anchor="middle" font-size="11" letter-spacing="2" fill="#c9d1d9">QUESTIONS</text>
+<text x="333.3" y="192" text-anchor="middle" font-size="10" fill="#5b6b7a">3–4 scoping questions</text>
+<circle cx="566.7" cy="212" r="7" fill="#0d1117" stroke="#00ff9f" stroke-width="1.5"><animate attributeName="fill" values="#0d1117;#0d1117;#00ff9f;#0d1117;#0d1117" keyTimes="0;0.527;0.567;0.687;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="566.7" y="244" text-anchor="middle" font-size="11" letter-spacing="2" fill="#c9d1d9">SPEC</text>
+<text x="566.7" y="192" text-anchor="middle" font-size="10" fill="#5b6b7a">pinned versions · guardrails</text>
+<circle cx="800.0" cy="212" r="7" fill="#0d1117" stroke="#00ff9f" stroke-width="1.5"><animate attributeName="fill" values="#0d1117;#0d1117;#00ff9f;#00ff9f" keyTimes="0;0.810;0.850;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="800.0" y="244" text-anchor="middle" font-size="11" letter-spacing="2" fill="#c9d1d9">EXPORT</text>
+<text x="800.0" y="192" text-anchor="middle" font-size="10" fill="#5b6b7a">15 export formats</text>
+
+<circle r="4" fill="#00ff9f"><animateMotion dur="7s" repeatCount="indefinite" path="M100 212 H800" keyPoints="0;1;1" keyTimes="0;.85;1" calcMode="linear"/></circle>
+</svg>

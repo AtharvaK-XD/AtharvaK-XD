@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="84" viewBox="0 0 900 84" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" role="img" aria-label="Atharva Kulkarni, Vadodara, Gujarat, India. Security and frontend. Always building. Always breaking.">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00ff9f" stop-opacity="0"/><stop offset=".5" stop-color="#00ff9f"/><stop offset="1" stop-color="#00ff9f" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="20" width="900" height="1" fill="#1a2430"/>
+<rect x="-240" y="19.5" width="240" height="2" fill="url(#g)"><animate attributeName="x" from="-240" to="900" dur="6s" repeatCount="indefinite"/></rect>
+<text x="450" y="50" text-anchor="middle" font-size="12" fill="#6b7b8c" textLength="560" lengthAdjust="spacing">© Atharva Kulkarni · Vadodara, Gujarat, India · Security × Frontend</text>
+<text x="450" y="70" text-anchor="middle" font-size="12" fill="#00ff9f" textLength="230" lengthAdjust="spacing">Always building. Always breaking.</text>
+</svg>
